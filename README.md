@@ -380,7 +380,7 @@ In addition to learning AOI technologies, this project aims to gain hands-on exp
 
 本專案採用 WinForms + UserControl 模組化設計，各功能頁面皆可獨立開發與維護，並透過 MainForm 進行整合與流程協調。
 
-以下為目前已完成的主要功能介面。
+以下為目前已完成的主要功能及未來要新增的功能介面。
 
 ---
 
@@ -392,8 +392,8 @@ In addition to learning AOI technologies, this project aims to gain hands-on exp
 
 #### 功能特色
 
-* 模組化頁面管理
-* UserControl 動態載入
+* 模組化頁面管理(已完成)
+* UserControl 動態載入(已完成)
 * 系統狀態顯示
 * 模組事件協調中心
 
@@ -412,10 +412,9 @@ PLC 訊號監控中心。
 * PLC 連線狀態顯示
 * PLC 訊號監控
 * Run 指令接收
-* Fake PLC 模擬測試
+* Fake PLC 模擬測試(進行中)
 * 檢測結果回傳
 
-【介面截圖】
 <img width="621" height="401" alt="image" src="https://github.com/user-attachments/assets/72d12e25-1087-41a2-bb86-c64e5e74639c" />
 
 ---
@@ -435,7 +434,6 @@ PLC 訊號監控中心。
 * Event 事件通知
 * AOI Tool Pipeline 預留架構
 
-【介面截圖】
 <img width="621" height="400" alt="image" src="https://github.com/user-attachments/assets/80bad6ee-e81b-4200-b9fc-f9624fdd8fe8" />
 
 ---
@@ -453,7 +451,6 @@ PLC 訊號監控中心。
 * Pipeline 順序管理
 * 檢測流程編輯
 
-【介面截圖】
 <img width="621" height="401" alt="image" src="https://github.com/user-attachments/assets/3a9d431b-0df3-4b0c-8a05-9cdb43c394a5" />
 
 ---
@@ -468,13 +465,12 @@ PLC 訊號監控中心。
 
 #### 功能特色
 
-* PLC IP 設定
-* PLC Port 設定
+* PLC IP 設定(已完成)
+* PLC Port 設定(已完成)
 * 通訊模式設定
-* Config.json 儲存與載入
-* Fake PLC 模式切換
+* Config.json 儲存與載入(已完成)
+* Fake PLC 模式切換(已完成)
 
-【介面截圖】
 <img width="621" height="401" alt="image" src="https://github.com/user-attachments/assets/cc0fc1bd-d8e8-4450-a4c9-5d128516c5a0" />
 
 ---
@@ -487,10 +483,9 @@ PLC 訊號監控中心。
 
 #### 功能特色
 
-* Log 即時顯示
-* 錯誤訊息記錄
-* 系統事件記錄
-* Log 檔案儲存
+* Log 即時顯示(已完成)
+* 錯誤訊息記錄(已完成)
+* 系統事件記錄(已完成)
+* Log 檔案儲存(已完成)
 
-【介面截圖】
 <img width="624" height="402" alt="image" src="https://github.com/user-attachments/assets/b1f6fb2a-4fe9-4acb-89b1-b544e37901fc" />
