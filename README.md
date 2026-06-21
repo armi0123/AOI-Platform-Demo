@@ -397,7 +397,7 @@ In addition to learning AOI technologies, this project aims to gain hands-on exp
 * 系統狀態顯示
 * 模組事件協調中心
 
-【介面截圖】
+<img width="637" height="410" alt="image" src="https://github.com/user-attachments/assets/64f2a0d7-0f17-4c19-96f5-a1eba944ef63" />
 
 ---
 
@@ -416,6 +416,7 @@ PLC 訊號監控中心。
 * 檢測結果回傳
 
 【介面截圖】
+<img width="621" height="401" alt="image" src="https://github.com/user-attachments/assets/72d12e25-1087-41a2-bb86-c64e5e74639c" />
 
 ---
 
@@ -435,6 +436,7 @@ PLC 訊號監控中心。
 * AOI Tool Pipeline 預留架構
 
 【介面截圖】
+<img width="621" height="400" alt="image" src="https://github.com/user-attachments/assets/80bad6ee-e81b-4200-b9fc-f9624fdd8fe8" />
 
 ---
 
@@ -452,6 +454,7 @@ PLC 訊號監控中心。
 * 檢測流程編輯
 
 【介面截圖】
+<img width="621" height="401" alt="image" src="https://github.com/user-attachments/assets/3a9d431b-0df3-4b0c-8a05-9cdb43c394a5" />
 
 ---
 
@@ -472,6 +475,7 @@ PLC 訊號監控中心。
 * Fake PLC 模式切換
 
 【介面截圖】
+<img width="621" height="401" alt="image" src="https://github.com/user-attachments/assets/cc0fc1bd-d8e8-4450-a4c9-5d128516c5a0" />
 
 ---
 
@@ -489,3 +493,4 @@ PLC 訊號監控中心。
 * Log 檔案儲存
 
 【介面截圖】
+<img width="624" height="402" alt="image" src="https://github.com/user-attachments/assets/b1f6fb2a-4fe9-4acb-89b1-b544e37901fc" />
